@@ -21,8 +21,8 @@ This repository contains a Terraform module that automates **Azure UDR (User Def
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/marciogmorales/udr-limit-checker.git
+cd udr-limit-checker
 ```
 
 ### **2️⃣ Modify the Configuration Files**
